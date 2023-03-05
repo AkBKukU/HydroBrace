@@ -15,7 +15,7 @@ Adding foam to the bottom of the parts before putting them on may make them work
 
 The intermediate mounting bracket to attach the throttle to the control panel is prone to tearing. The file `HydroThrottleplate-Unfold.dxf` is a replacement design for this made in a thicker piece of steel to both repair and prevent future damage. The design file is designed against material of the follow parameters availble at [sendcutsend.com](https://sendcutsend.com)  
   
-**CRS Mild Steel 0.119" (3mm):**  
+**[CRS Mild Steel 0.119" (3mm)](https://sendcutsend.com/materials/mild-steel/):**  
  - K-Factor: `0.38`  
  - Bend Radius: `1.6002 mm`  
  - Thickness: `3.0226 mm`
