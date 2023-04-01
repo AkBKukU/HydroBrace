@@ -23,6 +23,8 @@ Bend Values(Per SendCutSend order) - Left side:
 Bend Values(Per SendCutSend order) - RIght side:  
  - **1**: 80 - Down  
 
+After you order parts and go to install them, I highly recommend adding felt or foam to the inside part of the metal that contacts the plastic to both add friction and apply the force more evenly when clamping.
+
 ## Hydro Thunder Throttle Mount Plate
 
 ![A 3d render of the throttle mount plate](doc/cad-throttle-image.png "A render of the mount model")
@@ -38,8 +40,8 @@ The intermediate mounting bracket to attach the throttle to the control panel is
 Bend Values(Per SendCutSend order):  
  - **1** (Tall side mount tab): 90 - Up  
  - **2** (Tall side inner): 94.1596 - Down  
- - **3** (Short side mount tab): 90 - Up  
- - **4** (Short side inner): 85.8404 - Down
+ - **3** (Short side inner): 85.8404 - Down
+ - **4** (Short side mount tab): 90 - Up  
 
 
 If you want to change the material type you will need to modify the FreeCAD design file which uses the [SheetMetal Workbench](https://wiki.freecad.org/SheetMetal_Workbench) plugin. The K-factor is set on the unfolding of an object, material thickness and bend radius are set for the plugin on the base level object but for this project are referenced from a spreadsheet to make adjustments easier.
